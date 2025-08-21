@@ -29,4 +29,18 @@ The model is built using **Linear Regression** and evaluated with multiple metri
    ```bash
    git clone https://github.com/dhvanityadav/GPA-Predictor-using-ML
    cd GPA-Predictor-using-ML
+2. Install the Requirements
+   ```bash
+   pip install -r requirements.txt
+3. Run the script or open the Jupyter Notebook.
+
+## 🔮 Future Improvements
+- Convert into a Flask / Streamlit web app
+- Add more student performance factors
+
+## 👨‍💻 Author
+Dhvanit Yadav
+
+
+   
 
