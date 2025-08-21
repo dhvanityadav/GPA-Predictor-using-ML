@@ -27,6 +27,6 @@ The model is built using **Linear Regression** and evaluated with multiple metri
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/dhvanityadav/GPA_Predictor.git
-   cd GPA_Predictor
+   git clone https://github.com/dhvanityadav/GPA-Predictor-using-ML
+   cd GPA-Predictor-using-ML
 
